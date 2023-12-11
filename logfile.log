@@ -1,0 +1,319 @@
+2023-08-22 16:11:40,275 INFO  [Log] Test called: Testing the authentication has started 
+2023-08-22 16:11:42,292 INFO  [Log] Navigating to https://bitheap.tech 
+2023-08-22 16:11:54,909 INFO  [Log] Test called: Testing the purchase of one item has started 
+2023-08-22 16:11:57,663 INFO  [Log] Navigating to https://bitheap.tech 
+2023-08-25 13:53:58,365 INFO  [Log] Test called: Testing the authentication has started 
+2023-08-25 13:54:02,029 INFO  [Log] Navigating to https://bitheap.tech 
+2023-08-25 13:54:15,870 INFO  [Log] Test called: Testing the purchase of one item has started 
+2023-08-25 13:54:17,818 INFO  [Log] Navigating to https://bitheap.tech 
+2023-08-25 13:56:59,317 INFO  [Log] Test called: Testing the authentication has started 
+2023-08-25 13:57:01,011 INFO  [Log] Navigating to https://bitheap.tech 
+2023-08-25 13:57:09,202 INFO  [Log] Test called: Testing the purchase of one item has started 
+2023-08-25 13:57:10,911 INFO  [Log] Navigating to https://bitheap.tech 
+2023-08-25 13:58:01,917 INFO  [Log] Test called: Testing the authentication has started 
+2023-08-25 13:58:03,996 INFO  [Log] Navigating to https://bitheap.tech 
+2023-08-25 13:58:12,040 INFO  [Log] Test called: Testing the purchase of one item has started 
+2023-08-25 13:58:14,307 INFO  [Log] Navigating to https://bitheap.tech 
+2023-08-25 14:35:48,003 INFO  [Log] Test called: Testing the authentication has started 
+2023-08-25 14:35:49,648 INFO  [Log] Navigating to https://bitheap.tech 
+2023-08-25 14:35:49,822 INFO  [Log] Sign In button has been clicked. 
+2023-08-25 14:36:02,799 INFO  [Log] Test called: Testing the purchase of one item has started 
+2023-08-25 14:36:04,752 INFO  [Log] Navigating to https://bitheap.tech 
+2023-08-25 14:36:04,868 INFO  [Log] Sign In button has been clicked. 
+2023-08-28 09:59:18,362 INFO  [Log] Test called: Testing the authentication has started 
+2023-08-28 09:59:22,793 INFO  [Log] Navigating to https://bitheap.tech 
+2023-08-28 09:59:23,373 INFO  [Log] Sign In button has been clicked. 
+2023-08-28 09:59:31,218 INFO  [Log] We are logged in. 
+2023-08-28 09:59:34,660 INFO  [Log] Test called: Testing the purchase of one item has started 
+2023-08-28 09:59:36,831 INFO  [Log] Navigating to https://bitheap.tech 
+2023-08-28 09:59:37,293 INFO  [Log] Sign In button has been clicked. 
+2023-08-28 09:59:43,532 INFO  [Log] We are logged in. 
+2023-08-28 09:59:45,381 INFO  [Log] Clicking shop button. 
+2023-08-28 09:59:48,089 INFO  [Log] We add an item to th cart. 
+2023-08-28 09:59:54,995 INFO  [Log] We are inputting the billing details. 
+2023-08-28 09:59:55,252 INFO  [Log] We are now placing an order. 
+2023-08-28 09:59:55,407 ERROR [Log] Error: The item wasn't bought, unable to checkout 
+2023-11-08 17:04:30,837 INFO  [Log] Test called: Testing the authentication has started 
+2023-11-08 17:04:33,812 INFO  [Log] Navigating to https://bitheap.tech 
+2023-11-08 17:04:34,366 INFO  [Log] Sign In button has been clicked. 
+2023-11-08 17:05:01,965 INFO  [Log] Test called: Testing the purchase of one item has started 
+2023-11-08 17:05:04,511 INFO  [Log] Navigating to https://bitheap.tech 
+2023-11-08 17:05:05,132 INFO  [Log] Sign In button has been clicked. 
+2023-11-08 17:05:12,267 INFO  [Log] We are logged in. 
+2023-11-08 17:05:14,244 INFO  [Log] Clicking shop button. 
+2023-11-08 17:05:16,881 INFO  [Log] We add an item to th cart. 
+2023-11-08 17:05:27,462 INFO  [Log] We are inputting the billing details. 
+2023-11-08 17:05:27,792 INFO  [Log] We are now placing an order. 
+2023-11-08 17:05:27,956 ERROR [Log] Error: The item wasn't bought, unable to checkout 
+2023-11-08 17:31:23,573 INFO  [Log] Test called: Testing the authentication has started 
+2023-11-08 17:31:30,727 INFO  [Log] Navigating to https://bitheap.tech 
+2023-11-08 17:31:31,539 INFO  [Log] Sign In button has been clicked. 
+2023-11-08 17:31:38,490 INFO  [Log] We are logged in. 
+2023-11-08 17:31:44,049 INFO  [Log] Test called: Testing the purchase of one item has started 
+2023-11-08 17:31:46,520 INFO  [Log] Navigating to https://bitheap.tech 
+2023-11-08 17:31:46,786 INFO  [Log] Sign In button has been clicked. 
+2023-11-08 17:31:53,944 INFO  [Log] We are logged in. 
+2023-11-08 17:31:56,047 INFO  [Log] Clicking shop button. 
+2023-11-08 17:31:58,711 INFO  [Log] We add an item to th cart. 
+2023-11-08 17:32:07,867 INFO  [Log] We are inputting the billing details. 
+2023-11-08 17:32:08,095 INFO  [Log] We are now placing an order. 
+2023-11-08 17:32:08,253 ERROR [Log] Error: The item wasn't bought, unable to checkout 
+2023-11-28 01:10:27,289 INFO  [Log] Test called: Testing the authentication has started 
+2023-11-28 01:10:30,013 INFO  [Log] Navigating to https://bitheap.tech 
+2023-11-28 01:10:30,678 INFO  [Log] Sign In button has been clicked. 
+2023-11-28 01:10:38,183 INFO  [Log] We are logged in. 
+2023-11-28 01:10:41,747 INFO  [Log] Test called: Testing the purchase of one item has started 
+2023-11-28 01:10:44,082 INFO  [Log] Navigating to https://bitheap.tech 
+2023-11-28 01:10:44,740 INFO  [Log] Sign In button has been clicked. 
+2023-11-28 01:10:51,353 INFO  [Log] We are logged in. 
+2023-11-28 01:10:53,369 INFO  [Log] Clicking shop button. 
+2023-11-28 01:10:55,855 INFO  [Log] We add an item to th cart. 
+2023-11-28 01:11:06,342 INFO  [Log] We are inputting the billing details. 
+2023-11-28 01:11:06,545 INFO  [Log] We are now placing an order. 
+2023-11-28 01:11:06,649 ERROR [Log] Error: The item wasn't bought, unable to checkout 
+2023-11-28 01:21:58,776 INFO  [Log] Test called: Testing the authentication has started 
+2023-11-28 01:22:01,462 INFO  [Log] Navigating to https://bitheap.tech 
+2023-11-28 01:22:02,068 INFO  [Log] Sign In button has been clicked. 
+2023-11-28 01:22:11,884 INFO  [Log] We are logged in. 
+2023-11-28 01:22:15,435 INFO  [Log] Test called: Testing the purchase of one item has started 
+2023-11-28 01:22:17,561 INFO  [Log] Navigating to https://bitheap.tech 
+2023-11-28 01:22:18,120 INFO  [Log] Sign In button has been clicked. 
+2023-11-28 01:22:24,540 INFO  [Log] We are logged in. 
+2023-11-28 01:22:26,524 INFO  [Log] Clicking shop button. 
+2023-11-28 01:22:28,832 INFO  [Log] We add an item to th cart. 
+2023-11-28 01:22:38,171 INFO  [Log] We are inputting the billing details. 
+2023-11-28 01:22:38,345 INFO  [Log] We are now placing an order. 
+2023-11-28 01:22:38,442 ERROR [Log] Error: The item wasn't bought, unable to checkout 
+2023-12-04 23:08:14,009 INFO  [Log] Test called: Testing the authentication has started 
+2023-12-04 23:08:21,136 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-04 23:08:21,525 INFO  [Log] Sign In button has been clicked. 
+2023-12-04 23:08:27,979 INFO  [Log] We are logged in. 
+2023-12-04 23:08:30,965 INFO  [Log] Test called: Testing the purchase of one item has started 
+2023-12-04 23:08:32,699 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-04 23:08:32,836 INFO  [Log] Sign In button has been clicked. 
+2023-12-04 23:08:38,867 INFO  [Log] We are logged in. 
+2023-12-04 23:08:40,695 INFO  [Log] Clicking shop button. 
+2023-12-04 23:08:42,985 INFO  [Log] We add an item to th cart. 
+2023-12-04 23:08:54,385 INFO  [Log] We are inputting the billing details. 
+2023-12-04 23:08:54,526 INFO  [Log] We are now placing an order. 
+2023-12-04 23:08:54,603 ERROR [Log] Error: The item wasn't bought, unable to checkout 
+2023-12-04 23:15:48,935 INFO  [Log] Test called: Testing the authentication has started 
+2023-12-04 23:15:51,788 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-04 23:15:51,976 INFO  [Log] Sign In button has been clicked. 
+2023-12-04 23:16:01,587 INFO  [Log] We are logged in. 
+2023-12-04 23:16:04,189 INFO  [Log] Test called: Testing the purchase of one item has started 
+2023-12-04 23:16:05,864 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-04 23:16:05,978 INFO  [Log] Sign In button has been clicked. 
+2023-12-04 23:16:11,522 INFO  [Log] We are logged in. 
+2023-12-04 23:16:13,316 INFO  [Log] Clicking shop button. 
+2023-12-04 23:16:15,627 INFO  [Log] We add an item to th cart. 
+2023-12-04 23:16:23,342 INFO  [Log] We are inputting the billing details. 
+2023-12-04 23:16:23,475 INFO  [Log] We are now placing an order. 
+2023-12-04 23:16:23,560 ERROR [Log] Error: The item wasn't bought, unable to checkout 
+2023-12-07 01:40:26,645 INFO  [Log] Test called: Testing the authentication has started 
+2023-12-07 01:40:30,231 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 01:40:30,391 INFO  [Log] Sign In button has been clicked. 
+2023-12-07 01:40:44,835 INFO  [Log] We are logged in. 
+2023-12-07 01:40:47,657 INFO  [Log] Test called: Testing the purchase of one item has started 
+2023-12-07 01:40:50,077 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 01:40:50,202 INFO  [Log] Sign In button has been clicked. 
+2023-12-07 01:40:56,806 INFO  [Log] We are logged in. 
+2023-12-07 01:40:58,828 INFO  [Log] Clicking shop button. 
+2023-12-07 01:41:01,234 INFO  [Log] We add an item to the cart. 
+2023-12-07 01:41:12,605 INFO  [Log] We are inputting the billing details. 
+2023-12-07 01:41:12,745 INFO  [Log] We are now placing an order. 
+2023-12-07 01:41:12,833 ERROR [Log] Error: The item wasn't bought, unable to checkout 
+2023-12-07 01:43:05,942 INFO  [Log] Test called: Testing the authentication has started 
+2023-12-07 01:43:08,563 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 01:43:08,849 INFO  [Log] Sign In button has been clicked. 
+2023-12-07 01:43:15,989 INFO  [Log] We are logged in. 
+2023-12-07 01:43:16,994 INFO  [Log] Test called: Testing the purchase of one item has started 
+2023-12-07 01:44:04,334 INFO  [Log] Test called: Testing the authentication has started 
+2023-12-07 01:44:07,139 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 01:44:07,377 INFO  [Log] Sign In button has been clicked. 
+2023-12-07 01:44:14,735 INFO  [Log] We are logged in. 
+2023-12-07 01:44:15,769 INFO  [Log] Test called: Testing the purchase of one item has started 
+2023-12-07 01:44:48,029 INFO  [Log] Test called: Testing the authentication has started 
+2023-12-07 01:44:50,874 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 01:44:51,097 INFO  [Log] Sign In button has been clicked. 
+2023-12-07 01:44:59,360 INFO  [Log] We are logged in. 
+2023-12-07 01:45:02,901 INFO  [Log] Test called: Testing the purchase of one item has started 
+2023-12-07 01:45:05,602 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 01:45:05,824 INFO  [Log] Sign In button has been clicked. 
+2023-12-07 01:45:14,128 INFO  [Log] We are logged in. 
+2023-12-07 01:45:16,164 INFO  [Log] Clicking shop button. 
+2023-12-07 01:45:18,492 INFO  [Log] We add an item to the cart. 
+2023-12-07 01:45:29,140 INFO  [Log] We are inputting the billing details. 
+2023-12-07 01:45:29,439 INFO  [Log] We are now placing an order. 
+2023-12-07 01:45:29,958 ERROR [Log] Error: The item wasn't bought, unable to checkout 
+2023-12-07 01:45:56,621 INFO  [Log] Test called: Testing the authentication has started 
+2023-12-07 01:45:59,889 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 01:46:00,101 INFO  [Log] Sign In button has been clicked. 
+2023-12-07 01:46:07,466 INFO  [Log] We are logged in. 
+2023-12-07 01:46:10,892 INFO  [Log] Test called: Testing the purchase of one item has started 
+2023-12-07 01:46:13,756 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 01:46:13,909 INFO  [Log] Sign In button has been clicked. 
+2023-12-07 01:46:20,948 INFO  [Log] We are logged in. 
+2023-12-07 01:46:22,984 INFO  [Log] Clicking shop button. 
+2023-12-07 01:46:25,317 INFO  [Log] We add an item to the cart. 
+2023-12-07 01:46:35,016 INFO  [Log] We are inputting the billing details. 
+2023-12-07 01:46:35,152 INFO  [Log] We are now placing an order. 
+2023-12-07 01:46:35,238 ERROR [Log] Error: The item wasn't bought, unable to checkout 
+2023-12-07 01:47:06,039 INFO  [Log] Test called: Testing the authentication has started 
+2023-12-07 01:47:08,844 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 01:47:09,159 INFO  [Log] Sign In button has been clicked. 
+2023-12-07 01:47:17,142 INFO  [Log] We are logged in. 
+2023-12-07 01:47:20,573 INFO  [Log] Test called: Testing the purchase of one item has started 
+2023-12-07 01:47:23,175 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 01:47:25,980 INFO  [Log] Clicking shop button. 
+2023-12-07 01:47:28,344 INFO  [Log] We add an item to the cart. 
+2023-12-07 01:47:37,339 INFO  [Log] We are inputting the billing details. 
+2023-12-07 01:47:37,492 INFO  [Log] We are now placing an order. 
+2023-12-07 01:47:37,587 ERROR [Log] Error: The item wasn't bought, unable to checkout 
+2023-12-07 01:59:59,243 INFO  [Log] Test called: Testing the authentication has started 
+2023-12-07 02:00:03,389 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 02:00:03,654 INFO  [Log] Sign In button has been clicked. 
+2023-12-07 02:00:12,402 INFO  [Log] We are logged in. 
+2023-12-07 02:00:16,244 INFO  [Log] Test called: Testing the purchase of one item has started 
+2023-12-07 02:00:19,474 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 02:00:19,683 INFO  [Log] Sign In button has been clicked. 
+2023-12-07 02:00:27,333 INFO  [Log] We are logged in. 
+2023-12-07 02:00:29,336 INFO  [Log] Clicking shop button. 
+2023-12-07 02:00:31,787 INFO  [Log] We add an item to the cart. 
+2023-12-07 02:00:45,396 INFO  [Log] We are inputting the billing details. 
+2023-12-07 02:00:45,577 INFO  [Log] We are now placing an order. 
+2023-12-07 02:00:45,715 ERROR [Log] Error: The item wasn't bought, unable to checkout 
+2023-12-07 02:04:57,899 INFO  [Log] Test called: Testing the authentication has started 
+2023-12-07 02:05:01,335 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 02:05:01,709 INFO  [Log] Sign In button has been clicked. 
+2023-12-07 02:05:11,016 INFO  [Log] We are logged in. 
+2023-12-07 02:05:14,880 INFO  [Log] Test called: Testing the purchase of one item has started 
+2023-12-07 02:05:17,869 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 02:05:18,079 INFO  [Log] Sign In button has been clicked. 
+2023-12-07 02:05:25,878 INFO  [Log] We are logged in. 
+2023-12-07 02:05:27,853 INFO  [Log] Clicking shop button. 
+2023-12-07 02:05:30,293 INFO  [Log] We add an item to the cart. 
+2023-12-07 02:05:41,068 INFO  [Log] We are inputting the billing details. 
+2023-12-07 02:05:41,244 INFO  [Log] We are now placing an order. 
+2023-12-07 02:05:41,340 ERROR [Log] Error: The item wasn't bought, unable to checkout 
+2023-12-07 02:06:36,108 INFO  [Log] Test called: Testing the authentication has started 
+2023-12-07 02:06:39,257 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 02:06:39,516 INFO  [Log] Sign In button has been clicked. 
+2023-12-07 02:06:47,299 INFO  [Log] We are logged in. 
+2023-12-07 02:06:51,454 INFO  [Log] Test called: Testing the purchase of one item has started 
+2023-12-07 02:06:54,776 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 02:06:55,185 INFO  [Log] Sign In button has been clicked. 
+2023-12-07 02:07:03,390 INFO  [Log] We are logged in. 
+2023-12-07 02:07:05,486 INFO  [Log] Clicking shop button. 
+2023-12-07 02:07:08,149 INFO  [Log] We add an item to the cart. 
+2023-12-07 02:07:21,359 INFO  [Log] We are inputting the billing details. 
+2023-12-07 02:07:21,839 INFO  [Log] We are now placing an order. 
+2023-12-07 02:07:21,980 ERROR [Log] Error: The item wasn't bought, unable to checkout 
+2023-12-07 02:09:20,198 INFO  [Log] Test called: Testing the authentication2222 has started 
+2023-12-07 02:09:25,213 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 02:09:25,402 INFO  [Log] Sign In button has been clicked. 
+2023-12-07 02:09:33,436 INFO  [Log] We are logged in. 
+2023-12-07 02:09:36,990 INFO  [Log] Test called: Testing the purchase of one item has started 
+2023-12-07 02:09:40,992 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 02:09:41,228 INFO  [Log] Sign In button has been clicked. 
+2023-12-07 02:09:49,197 INFO  [Log] We are logged in. 
+2023-12-07 02:09:51,441 INFO  [Log] Clicking shop button. 
+2023-12-07 02:09:53,957 INFO  [Log] We add an item to the cart. 
+2023-12-07 02:10:07,647 INFO  [Log] We are inputting the billing details. 
+2023-12-07 02:10:07,876 INFO  [Log] We are now placing an order. 
+2023-12-07 02:10:07,976 ERROR [Log] Error: The item wasn't bought, unable to checkout 
+2023-12-07 02:43:05,145 INFO  [Log] Test called: Testing the authentication has started 
+2023-12-07 02:43:14,151 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 02:43:14,384 INFO  [Log] Sign In button has been clicked. 
+2023-12-07 02:43:23,247 INFO  [Log] We are logged in. 
+2023-12-07 02:43:27,558 INFO  [Log] Test called: Testing the purchase of one item has started 
+2023-12-07 02:43:30,754 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 02:43:30,929 INFO  [Log] Sign In button has been clicked. 
+2023-12-07 02:43:38,270 INFO  [Log] We are logged in. 
+2023-12-07 02:43:40,361 INFO  [Log] Clicking shop button. 
+2023-12-07 02:43:42,826 INFO  [Log] We add an item to the cart. 
+2023-12-07 02:43:53,971 INFO  [Log] We are inputting the billing details. 
+2023-12-07 02:43:54,331 INFO  [Log] We are now placing an order. 
+2023-12-07 02:43:54,435 ERROR [Log] Error: The item wasn't bought, unable to checkout 
+2023-12-07 02:47:57,923 INFO  [Log] Test called: Testing the authentication has started 
+2023-12-07 02:48:01,996 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 02:48:02,251 INFO  [Log] Sign In button has been clicked. 
+2023-12-07 02:48:13,349 INFO  [Log] We are logged in. 
+2023-12-07 02:48:17,058 INFO  [Log] Test called: Testing the purchase of one item has started 
+2023-12-07 02:48:20,028 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 02:48:20,228 INFO  [Log] Sign In button has been clicked. 
+2023-12-07 02:48:27,826 INFO  [Log] We are logged in. 
+2023-12-07 02:48:29,804 INFO  [Log] Clicking shop button. 
+2023-12-07 02:48:32,255 INFO  [Log] We add an item to the cart. 
+2023-12-07 02:48:43,712 INFO  [Log] We are inputting the billing details. 
+2023-12-07 02:48:44,106 INFO  [Log] We are now placing an order. 
+2023-12-07 02:48:44,232 ERROR [Log] Error: The item wasn't bought, unable to checkout 
+2023-12-07 02:59:52,569 INFO  [Log] Test called: Testing the authentication has started 
+2023-12-07 02:59:56,244 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 02:59:56,737 INFO  [Log] Sign In button has been clicked. 
+2023-12-07 03:00:12,146 INFO  [Log] We are logged in. 
+2023-12-07 03:00:29,984 INFO  [Log] Test called: Testing the authentication has started 
+2023-12-07 03:00:32,973 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 03:00:33,198 INFO  [Log] Sign In button has been clicked. 
+2023-12-07 03:00:40,905 INFO  [Log] We are logged in. 
+2023-12-07 03:00:45,118 INFO  [Log] Test called: Testing the purchase of one item has started 
+2023-12-07 03:00:47,997 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 03:00:48,262 INFO  [Log] Sign In button has been clicked. 
+2023-12-07 03:00:56,178 INFO  [Log] We are logged in. 
+2023-12-07 03:00:58,218 INFO  [Log] Clicking shop button. 
+2023-12-07 03:01:00,751 INFO  [Log] We add an item to the cart. 
+2023-12-07 03:01:09,787 INFO  [Log] We are inputting the billing details. 
+2023-12-07 03:01:09,992 INFO  [Log] We are now placing an order. 
+2023-12-07 03:01:10,177 ERROR [Log] Error: The item wasn't bought, unable to checkout 
+2023-12-07 03:08:45,014 INFO  [Log] Test called: asdasdas has started 
+2023-12-07 03:08:48,623 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 03:08:48,977 INFO  [Log] Sign In button has been clicked. 
+2023-12-07 03:09:03,762 INFO  [Log] We are logged in. 
+2023-12-07 03:09:07,439 INFO  [Log] Test called: Testing the purchase of one item has started 
+2023-12-07 03:09:10,685 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 03:09:10,919 INFO  [Log] Sign In button has been clicked. 
+2023-12-07 03:09:18,842 INFO  [Log] We are logged in. 
+2023-12-07 03:09:21,086 INFO  [Log] Clicking shop button. 
+2023-12-07 03:09:23,603 INFO  [Log] We add an item to the cart. 
+2023-12-07 03:09:36,973 INFO  [Log] We are inputting the billing details. 
+2023-12-07 03:09:37,161 INFO  [Log] We are now placing an order. 
+2023-12-07 03:09:37,289 ERROR [Log] Error: The item wasn't bought, unable to checkout 
+2023-12-07 03:13:21,087 INFO  [Log] Test called: Testing the authentication has started 
+2023-12-07 03:13:33,238 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 03:13:33,597 INFO  [Log] Sign In button has been clicked. 
+2023-12-07 03:13:41,954 INFO  [Log] We are logged in. 
+2023-12-07 03:13:45,969 INFO  [Log] Test called: Testing the purchase of one item has started 
+2023-12-07 03:13:49,284 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 03:13:49,662 INFO  [Log] Sign In button has been clicked. 
+2023-12-07 03:13:57,681 INFO  [Log] We are logged in. 
+2023-12-07 03:13:59,780 INFO  [Log] Clicking shop button. 
+2023-12-07 03:14:02,258 INFO  [Log] We add an item to the cart. 
+2023-12-07 03:14:17,237 INFO  [Log] We are inputting the billing details. 
+2023-12-07 03:14:17,470 INFO  [Log] We are now placing an order. 
+2023-12-07 03:14:17,610 ERROR [Log] Error: The item wasn't bought, unable to checkout 
+2023-12-07 03:20:41,769 INFO  [Log] Test called: Testing the authentication has started 
+2023-12-07 03:20:45,377 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 03:20:45,759 INFO  [Log] Sign In button has been clicked. 
+2023-12-07 03:20:58,039 INFO  [Log] We are logged in. 
+2023-12-07 03:21:03,304 INFO  [Log] Test called: Testing the purchase of one item has started 
+2023-12-07 03:21:07,043 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 03:21:07,302 INFO  [Log] Sign In button has been clicked. 
+2023-12-07 03:21:18,471 INFO  [Log] We are logged in. 
+2023-12-07 03:21:21,152 INFO  [Log] Clicking shop button. 
+2023-12-07 03:21:24,078 INFO  [Log] We add an item to the cart. 
+2023-12-07 03:21:42,528 INFO  [Log] We are inputting the billing details. 
+2023-12-07 03:21:42,755 INFO  [Log] We are now placing an order. 
+2023-12-07 03:21:53,002 ERROR [Log] Error: The item wasn't bought, unable to checkout 
+2023-12-07 03:23:32,414 INFO  [Log] Test called: Testing the authentication has started 
+2023-12-07 03:23:36,701 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 03:23:37,707 INFO  [Log] Sign In button has been clicked. 
+2023-12-07 03:23:49,628 INFO  [Log] We are logged in. 
+2023-12-07 03:23:55,184 INFO  [Log] Test called: Testing the purchase of one item has started 
+2023-12-07 03:23:59,190 INFO  [Log] Navigating to https://bitheap.tech 
+2023-12-07 03:23:59,429 INFO  [Log] Sign In button has been clicked. 
+2023-12-07 03:24:09,679 INFO  [Log] We are logged in. 
+2023-12-07 03:24:12,259 INFO  [Log] Clicking shop button. 
+2023-12-07 03:24:14,985 INFO  [Log] We add an item to the cart. 
+2023-12-07 03:24:31,437 INFO  [Log] We are inputting the billing details. 
+2023-12-07 03:24:31,666 INFO  [Log] We are now placing an order. 
+2023-12-07 03:24:31,792 ERROR [Log] Error: The item wasn't bought, unable to checkout 
